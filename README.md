@@ -9,4 +9,4 @@
 -pronto é só codar
 ### Tarefas
 
-- Na verdade,preciso de algo para guardar 20 inteiros. Preciso saber o maior e o menor deles também.
+- Na verdade,preciso de algo para guardar muitos inteiros (Infinitos?). Preciso saber o maior e o menor deles também.
