@@ -9,4 +9,6 @@
 -pronto é só codar
 ### Tarefas
 
-- Na verdade,preciso de algo para guardar muitos inteiros (Infinitos?). Preciso saber o maior e o menor deles também.
+- Na verdade,preciso de algo para guardar 20 inteiros. Preciso saber o maior e o menor deles também.
+
+- Na verdade, preciso de alguma coisa para guardar uma data. Preciso saber dias e ano, além de horas, e se o horário é AM (antes meio-dia) ou PM (pós meio-dia)
